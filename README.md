@@ -1,11 +1,35 @@
 ### Hi there 👋
 
-**My Projects**
+# Machine Learning Projects
+- Mercari Price prediction
+
+# Web Scrapping
+- News Article Scrapper
+- 
+
+# Exploratory Data Analysis
+- Kiva Crowdfunding Loans 
+
+# Deep Learning 
+- Image classification of dogs and cats using CNN 
 
 **My Skills**
 ____
+## Data
 
-![Numpy](https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png) Numpy
+Python  Numpy  Pandas  SQL  Stata  Excel  BeautifulSoup
+
+## Machine Learning
+
+Scikit Learn  Pytorch  XGBoost  LightBoost  Spacy NLTK 
+
+## Visualization
+
+Matplotlib  Seaborn  PLotly  Geopandas  Folium  Tableau
+
+## Workflow
+
+Github  Git  Jupyter  MySQL
 
 
 <!--
