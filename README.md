@@ -5,7 +5,7 @@
 - [Mercari Price prediction](https://jovian.ai/manishb27/mercari-price-prediction-ml-project) (Currently working)👀
 
 ## Web Scrapping 🎰
-- News Article Scrapper(https://jovian.ai/manishb27/web-scraping)
+- [News Article Scrapper](https://jovian.ai/manishb27/web-scraping)
 
 ## Exploratory Data Analysis 🔍
 - [Kiva Crowdfunding Loans](https://jovian.ai/manishb27/kiva-loans-eda)
