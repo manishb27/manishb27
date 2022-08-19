@@ -1,5 +1,5 @@
 # ABOUT ME
-[Jovian](https://jovian.ai/manishb27) | [LinkedIn](https://www.linkedin.com/in/manishb27/) | [Blog](https://medium.com/@manishb27)
+Data Scientist @ Discite Analytics and AI | [Jovian](https://jovian.ai/manishb27) | [LinkedIn](https://www.linkedin.com/in/manishb27/) | [Blog](https://medium.com/@manishb27)
 
 ## Machine Learning Projects 🔬
 - [Mercari Price prediction](https://jovian.ai/manishb27/mercari-price-prediction-ml-project) (Currently working)👀
