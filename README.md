@@ -21,34 +21,78 @@ ____________________________
 
 # **My Skills**
 ## Data
-✅Numpy    ✅Pandas   ✅SQL    ✅Stata    ✅Excel    ✅BeautifulSoup   ✅Polars   ✅Selenium  ✅Excel, Google Sheets
+- Numpy
+- Pandas  
+- SQL
+- Stata
+- Excel
+- BeautifulSoup
+- Polars
+- Selenium
+- Excel
+- Google Sheets
 
 ## Machine Learning
-✅Scikit-Learn    ✅Pytorch    ✅XGBoost ✅Spacy  ✅NLTK  ✅TF ✅Huggingface
+- Scikit-Learn
+- Pytorch
+- XGBoost
+- Spacy
+- NLTK
+- TF - Keras 
 
 ## Visualization
-✅Matplotlib   ✅Seaborn    ✅PLotly    ✅Geopandas    ✅Folium    ✅Tableau  ✅PowerBI
+- Matplotlib
+- Seaborn
+- Plotly    
+- Tableau
+- PowerBI
 
 ## Workflow
-✅Github    ✅Git    ✅Jupyter    ✅Replit  ✅Gitlab  ✅Bitbucket
+- Github
+- Git
+- Jupyter
+- Replit
+- Gitlab
+- Bitbucket
 
 ## MLOPS
-✅WandB  ✅Kubeflow  ✅MLFlows   ✅CICD with google cloud
+- WandB
+- Kubeflow
+- MLFlows
+- CICD - Gitlab
+- Github actions
 
 ## Deployment
-✅Docker  ✅Docker-compose    ✅Kuberbetes  ✅GKE  ✅Linode  ✅Railway.app  ✅Heroku  ✅Nginx  ✅ngrok   ✅gunicorn   ✅Waitress   ✅Huggingface Spaces   ✅Torchserve - GCP
+- Docker
+- Docker-compose
+- Kuberbetes
+- Railway.app
+- Heroku
+- Nginx
+- ngrok
+- gunicorn
+- Waitress
+- Huggingface Spaces
+- Torchserve - GCP
 
 ## Cloud
-✅GCP  ✅AWS  ✅Azure  ✅Nvidia  ✅IBM  ✅Linode 
-
-## AI API Tools
-✅Google AI libraries  ✅IBM API libraries   ✅OpenAI-GPT  ✅OpenAI - Dale
+- GCP
+- AWS
+- Azure
+- Nvidia
+- IBM
+- Linode 
 
 ## CI/CD
-✅Gitlab CI/CD    ✅Github Actions    ✅Jenkins    ✅Ansible    
+- Gitlab - CI/CD
+- Github Actions
+- Jenkins
+- Ansible    
 
 ## languages 
-✅Python   ✅C++
+- Python
+- C++
+- JavaScript
 
 <!--
 **manishb27/manishb27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
