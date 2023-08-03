@@ -1,5 +1,5 @@
 # ABOUT ME
-Data Scientist @ Discite Analytics and AI | [Jovian](https://jovian.ai/manishb27) | [LinkedIn](https://www.linkedin.com/in/manishb27/) | [Blog](https://medium.com/@manishb27)
+Data Science Consultant @ Dynpro Inc. | [Jovian](https://jovian.ai/manishb27) | [LinkedIn](https://www.linkedin.com/in/manishb27/) | [Blog](https://medium.com/@manishb27)
 
 - 🔭 I’m currently working on AI products to be launched by November 2023 tentatively.
 - 👯 I’m looking to collaborate on some AI tools in medical and research space.
