@@ -1,4 +1,5 @@
 # ABOUT ME
+Cofounder - [Lightning Leap Analytics](https://www.lightningleapanalytics.com/)
 Software Engg. | Knowledge engg. | Sr. Data Science Consultant | [Website](https://manishbabbar.com) | [LinkedIn](https://www.linkedin.com/in/manishb27/) | [Blog](https://medium.com/@manishb27)
 
 - 🔭 I’m currently working on GenAI / ML products.
